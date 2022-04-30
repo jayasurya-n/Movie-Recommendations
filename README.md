@@ -19,7 +19,7 @@ The algoithm:
 
 ### Matrix factorization model
 
-JAYASURYA TO WRITE
+The input data is split into Train and Test data. Train data is given input to the Matrix Factorisation technique in which SVD ++ Algorithm is used, ratings are computed corresponding to the test data using the ratings of the trained data. From the algorithm we get complete user-item matrix of the data, and rmse value of the ratings for the test data is computed which is around 1.18. 
 
 
 ### Neural collaborative model
